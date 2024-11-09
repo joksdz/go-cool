@@ -1,5 +1,6 @@
 this is how it looks like : 
 
+![343104855-e7379770-fa05-4db1-b670-24d123dc3577](https://github.com/user-attachments/assets/b3571c02-18a0-44b4-a6af-585ea3483156)
 
 you can change the x and y and their powers to make diffrent types of cool designs 
 for ex :
